@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashvardhan Arekapudi</h1>
-<h3 align="center">Cybersecurity | Cloud Security | AppSec | DevSecOps</h3>
 
-<p align="center">
-  <a href="https://github.com/ArekaYash"><img src="https://komarev.com/ghpvc/?username=arekayash&label=Profile%20views&color=0e75b6&style=flat" alt="arekayash" /></a>
-  <a href="https://github.com/ArekaYash?tab=followers"><img src="https://img.shields.io/github/followers/ArekaYash?label=Followers&style=flat" alt="GitHub followers" /></a>
-</p>
 
 <p align="center">
   Security professional working across application security, Azure cloud security, vulnerability management, and secure CI/CD. I enjoy turning repetitive security work into automated, measurable workflows.
